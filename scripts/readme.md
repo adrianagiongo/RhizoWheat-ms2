@@ -57,7 +57,7 @@ Database used: [SILVA 138 SSU](https://www.arb-silva.de/documentation/release-13
 - Non-truncate parameter
 
 ### 2. Creating phyloseq object
-This script creates phyloseq object based on these files:
+This script creates a phyloseq object based on these files:
 
 - jki_seq1_metadata.csv
 - jki_seq1_otu.xlsx
