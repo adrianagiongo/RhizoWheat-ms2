@@ -22,3 +22,9 @@ This work was conducted within the RhizoWheat Project (www.rhizowheat.uni-kiel.d
 ### More info
 https://www.rhizowheat.uni-kiel.de/de \
 https://www.julius-kuehn.de/en/ep
+
+### Submission
+Submitted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 22.05.2024. 
+- Main document (.docx)
+- eXtra document (.docx)
+- Supplementary Table S3 (.xlsx)
