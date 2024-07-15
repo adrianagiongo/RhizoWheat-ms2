@@ -28,4 +28,4 @@ Submitted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA
 - eXtra document (.docx)
 - Supplementary Table S3 (.xlsx)
 
-Reviewers comments on 17.06.2024.
+Reviewers comments on 17.06.2024
