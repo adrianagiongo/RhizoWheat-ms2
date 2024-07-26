@@ -30,7 +30,8 @@ Performed in R v.4.1.3 [R Core Team](https://www.r-project.org)
   - ![#f8b195](https://placehold.co/15x15/f8b195/f8b195.png) `#f8b195` (Patescibacteriota)
   - ![#80c698](https://placehold.co/15x15/80c698/80c698.png) `#80c698` (Proteobacteria)
 - Greenhouse
-  - ![#549ccb](https://placehold.co/15x15/549ccb/549ccb.png) `#549ccb` (Disease)
+  - ![#549ccb](https://placehold.co/15x15/549ccb/549ccb.png) `#549ccb` (Disease reduction)
+  - ![#f67280](https://placehold.co/15x15/f67280/f67280.png) `#f67280` (Disease incidence)
   - ![#c6ba9c](https://placehold.co/15x15/c6ba9c/c6ba9c.png) `#c6ba9c` (Root biomass)
   - ![#80c698](https://placehold.co/15x15/80c698/80c698.png) `#80c698` (Shoot biomass)
 
