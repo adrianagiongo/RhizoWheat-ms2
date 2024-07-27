@@ -29,3 +29,5 @@ Submitted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA
 - Supplementary Table S3 (.xlsx)
 
 Reviewers comments on 17.06.2024
+- First round to co-authors: 03.07
+- Second round to co-authors: 26.07 
