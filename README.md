@@ -32,3 +32,8 @@ Reviewers comments on 17.06.2024 (deadline 17.09)
 - First round to co-authors: 03.07
 - Second round to co-authors: 26.07
 - Third round to co-authors: 09.08
+
+Re-submission to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 18.08.2024. 
+- Main document (.docx)
+- eXtra document (.docx)
+- Supplementary Table S3 (.xlsx)
