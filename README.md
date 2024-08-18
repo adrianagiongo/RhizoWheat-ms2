@@ -1,5 +1,5 @@
 ### Github repository for 
-# The microbiome of continuous wheat rotations: minor shifts in bacterial and archaeal communities but source for functionally active plant-beneficial microbes
+# The microbiome of continuous wheat rotations: minor shifts in bacterial and archaeal communities but source for functionally active plant-beneficial bacteria
 ### Andrea Braun-Kiewnick, Adriana Giongo, Priscilla M. Zamberlan, Patrick Pluta, Heinz-Josef Koch, Henning Kage, Kornelia Smalla, Doreen Babin
 
 ### How to cite this work
