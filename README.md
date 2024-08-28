@@ -37,4 +37,5 @@ Re-submission to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/P
 - Main document (.docx)
 - eXtra document (.docx)
 - Supplementary Table S3 (.xlsx)
+
 Accepted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 27.08.2024. 
