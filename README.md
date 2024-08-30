@@ -23,15 +23,15 @@ https://www.rhizowheat.uni-kiel.de/de \
 https://www.julius-kuehn.de/en/ep
 
 ### Submission
-Submitted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 22.05.2024. 
+Submitted to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 22.05.2024. 
 
 Reviewers comments on 17.06.2024 (deadline 17.09.2024)
 - First round to co-authors: 03.07.2024
 - Second round to co-authors: 26.07.2024
 - Third round to co-authors: 09.08.2024
 
-Re-submission to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 18.08.2024. 
+Re-submission to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 18.08.2024. 
 
-Accepted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 27.08.2024. 
+Accepted at [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 27.08.2024. 
 
-Submission of figures in high quality: 30.08.2024.
+Submission of docx file and high quality figures: 30.08.2024.
