@@ -24,18 +24,14 @@ https://www.julius-kuehn.de/en/ep
 
 ### Submission
 Submitted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 22.05.2024. 
-- Main document (.docx)
-- eXtra document (.docx)
-- Supplementary Table S3 (.xlsx)
 
-Reviewers comments on 17.06.2024 (deadline 17.09)
-- First round to co-authors: 03.07
-- Second round to co-authors: 26.07
-- Third round to co-authors: 09.08
+Reviewers comments on 17.06.2024 (deadline 17.09.2024)
+- First round to co-authors: 03.07.2024
+- Second round to co-authors: 26.07.2024
+- Third round to co-authors: 09.08.2024
 
 Re-submission to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 18.08.2024. 
-- Main document (.docx)
-- eXtra document (.docx)
-- Supplementary Table S3 (.xlsx)
 
 Accepted to [Phytobiomes Journal](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA940360/) on 27.08.2024. 
+
+Submission of figures in high quality: 30.08.2024.
