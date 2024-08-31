@@ -34,4 +34,4 @@ Re-submission to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pb
 
 Accepted at [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 27.08.2024. 
 
-Submission of docx file and high quality figures: 30.08.2024.
+Submission of docx file and high quality figures using Weshare: 30.08.2024
