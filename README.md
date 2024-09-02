@@ -3,7 +3,7 @@
 ### Andrea Braun-Kiewnick, Adriana Giongo, Priscilla M. Zamberlan, Patrick Pluta, Heinz-Josef Koch, Henning Kage, Kornelia Smalla, Doreen Babin
 
 ### How to cite this work
-DOI: 
+DOI
 
 ### Data
 Unassembled raw amplicon data were deposited in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProjects 
