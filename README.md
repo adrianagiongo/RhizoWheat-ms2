@@ -23,15 +23,17 @@ https://www.rhizowheat.uni-kiel.de/de \
 https://www.julius-kuehn.de/en/ep
 
 ### Submission
-Submitted to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 22.05.2024. 
+1) Submitted to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 22.05.2024. 
 
-Reviewers comments on 17.06.2024 (deadline 17.09.2024)
+2) Reviewers comments on 17.06.2024 (deadline 17.09.2024)
 - First round to co-authors: 03.07.2024
 - Second round to co-authors: 26.07.2024
 - Third round to co-authors: 09.08.2024
 
-Re-submission to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 18.08.2024. 
+3) Re-submission to [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 18.08.2024. 
 
-Accepted at [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 27.08.2024. 
+4) Accepted at [Phytobiomes Journal](https://apsjournals.apsnet.org/journal/pbiomes) on 27.08.2024. 
+- Submission of docx file and high quality figures using WeShare: 30.08.2024
+- Submission of First Look: 23.09.2024
 
-Submission of docx file and high quality figures using WeShare: 30.08.2024
+5) Online version:
