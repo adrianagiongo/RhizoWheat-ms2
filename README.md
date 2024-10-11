@@ -3,6 +3,7 @@
 ### Andrea Braun-Kiewnick, Adriana Giongo, Priscilla M. Zamberlan, Patrick Pluta, Heinz-Josef Koch, Henning Kage, Kornelia Smalla, Doreen Babin
 
 ### How to cite this work
+Braun-Kiewnick A, Giongo A, Zamberlan PM, Pluta P, Koch H-J, Kage H, Smalla K, Babin D (2024) The microbiome of continuous wheat rotations: minor shifts in bacterial and archaeal communities but a source for functionally active plant-beneficial bacteria. Phytobiomes Journal (in press).
 [DOI: 10.1094/PBIOMES-05-24-0054-R](https://doi.org/10.1094/PBIOMES-05-24-0054-R)
 
 ### Data
