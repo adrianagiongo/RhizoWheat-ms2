@@ -3,7 +3,7 @@
 ### Andrea Braun-Kiewnick, Adriana Giongo, Priscilla M. Zamberlan, Patrick Pluta, Heinz-Josef Koch, Henning Kage, Kornelia Smalla, Doreen Babin
 
 ### How to cite this work
-[DOI](https://doi.org/10.1094/PBIOMES-05-24-0054-R)
+[DOI: 10.1094/PBIOMES-05-24-0054-R](https://doi.org/10.1094/PBIOMES-05-24-0054-R)
 
 ### Data
 Unassembled raw amplicon data were deposited in the National Center for Biotechnology Information (NCBI) Sequence Read Archive (SRA) under BioProjects 
@@ -36,5 +36,6 @@ https://www.julius-kuehn.de/en/ep
 - Submission of docx file and high quality figures using WeShare: 30.08.2024
 - Submission of First Look: 23.09.2024
 
-5) Online version:
+5) Online version at [Phytobiomes Journal](https://apsjournals.apsnet.org/doi/10.1094/PBIOMES-05-24-0054-R)
+- First look: 25.09.2024
    
