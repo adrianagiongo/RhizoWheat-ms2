@@ -17,8 +17,6 @@ library("ggpubr")
 #(4)Rotation = W1, W2, WM (Go) or W1, W3 (Ki) - / (MetBrewer:"VanGogh3") W1= "#e7e5cc", W2= "#9cc184", W3= "#447243", WM= "#1e3d14"
 #(5)Microhabitats = BS, RH, RP
 
-
-
 ##Creating rarefaction curve of non-rarefied samples (files separated by year were created in the Ordination script)
 #Using rarecurve()
 rarecurve(t(otu_table(psO_jki_seq2_seq4_Go_2020_filt)), step=20, cex=0.5, col = "blue")
